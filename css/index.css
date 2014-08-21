@@ -118,14 +118,16 @@ header {
 }
 
 footer {
-  background-image: url(http://static1.wikia.nocookie.net/__cb20120830124904/es.pokemon/images/b/b5/EP754_Krookodile_usando_triturar.png)
+  background-color: #333333;  
+  background-image: url(http://static1.wikia.nocookie.net/__cb20120830124904/es.pokemon/images/b/b5/EP754_Krookodile_usando_triturar.png);
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: cover;
+  background-size: 100% 100%;
   padding: 250px 20px 250px 20px;
   margin: 0 auto;
 }
+
 
 .copyright {
   font-size: 12px;
